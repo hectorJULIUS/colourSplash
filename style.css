@@ -1,0 +1,105 @@
+.tittle{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    padding: 10px;
+    color: rgb(7, 7, 7);
+}
+.tittle:hover{
+    text-decoration: overline;
+    color:#ffffff ;
+}
+.btn{
+    background-color: rgb(255, 55, 0);
+    border: 2px solid rgb(255, 77, 0);
+    border-radius: 10px;
+    padding: 5px 10px;
+    color: white;
+}
+.btn:hover{
+    transition: ease .5;
+    font-size: 10px;
+    font-weight: 400;
+ }
+ .intro{
+    background-image: url('images/noiseporn-JNuKyKXLh8U-unsplash.jpg');
+    color: rgb(0, 0, 0);
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-attachment:scroll;
+ }
+ table img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+table h1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: black;
+    font-size: 50px;
+    font-weight: 300;
+
+}
+body{
+    background-color: #c18c8b;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    text-align: center;
+ 
+ }
+ .btnR{
+    background-color: rgb(255, 55, 0);
+    border: 2px solid rgb(255, 77, 0);
+    border-radius: 10px;
+    padding: 5px 10px;
+    color: white;
+}
+.btnR:hover{
+    transition: ease .5;
+    font-size: 10px;
+    font-weight: 400;
+ }
+.hr{
+    color:white ;
+    
+
+}
+.credits{
+    background:linear-gradient(60deg, #d52727,white);
+    padding: 30px;
+    color: black;
+}
+.imm{
+    height: 500px;
+    width: 500px;
+}
+.tbl{
+    background-color:#000000;
+    width: 100%;
+    border: rgb(255, 255, 255);
+
+}
+.tbl ul{
+    color: white;
+    
+}
+.tbl ul:hover{
+    color: #c18c8b;
+    margin-left: 30px;
+    transition: .3s;
+}
+.tbl h2{
+    color: white;
+}
+.tbl p{
+    color: white;
+}
+.tbl td{
+    color: white;
+}
